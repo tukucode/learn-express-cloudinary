@@ -1,0 +1,21 @@
+{
+  "name": "express-cloudinary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "tomimandalaputra",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "cloudinary": "^1.41.3",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
